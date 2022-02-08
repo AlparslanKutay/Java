@@ -1,0 +1,6 @@
+Turkey Izmir 271518 384361  10000
+Greece Athens 237333 379833 1000
+Italy Rome 124833 418960 1000
+Spain Barcelona 21834 413833 1000
+England London -1167 515000 1000
+Netherlands Amsterdam 49166 523500 1000
